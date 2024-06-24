@@ -4,9 +4,9 @@ Link - [Databricks Published Link](https://databricks-prod-cloudfront.cloud.data
 
 ### Data Used 
 
-The World Development Indicators from the World Bank contain over a thousand annual indicators of economic development from hundreds of countries around the world.
+The World Development Indicators from the **World Bank** contain over a thousand annual indicators of economic development from hundreds of countries around the world.
 
-### Data File 
+### Data Files Used 
 
 1. Country.csv
 
@@ -14,19 +14,19 @@ The World Development Indicators from the World Bank contain over a thousand ann
 
 ### Indicators Used
 
-| Indicators  | Indicator Code |
-| ----------- | ----------- |
-| GINI Index | SI.POV.GINI |
-| Youth Literacy Rate | SE.ADT.1524.LT.ZS |
-| GDP| NE.EXP.GNFS.KD |
-| GDP per Capita | NY.GDP.PCAP.PP.KD |
-| Export of goods and services (constant 2005 US$) | NE.EXP.GNFS.KD |
-| Import of goods and services (constant 2005 US$) | NE.IMP.GNFS.KD |
-| Poverty Allevation | SI.POV.2DAY |
-| Life Expectancy | SP.DYN.LE00.IN |
-| Urban Population Growth| SP.URB.TOTL.IN.ZS |
-| Infant Mortatlity Rate | SH.DTH.IMRT |
-| Countries with Average Income| NY.GNP.PCAP.CD |
-| Birth Rates | SP.DYN.CBRT.IN |
-| World per Capita Income | NY.ADJ.NNTY.PC.KD | 
+  | Indicators  | Indicator Code |
+  | ----------- | ----------- |
+  | GINI Index | SI.POV.GINI |
+  | Youth Literacy Rate | SE.ADT.1524.LT.ZS |
+  | GDP| NE.EXP.GNFS.KD |
+  | GDP per Capita | NY.GDP.PCAP.PP.KD |
+  | Export of goods and services (constant 2005 US$) | NE.EXP.GNFS.KD |
+  | Import of goods and services (constant 2005 US$) | NE.IMP.GNFS.KD |
+  | Poverty Allevation | SI.POV.2DAY |
+  | Life Expectancy | SP.DYN.LE00.IN |
+  | Urban Population Growth| SP.URB.TOTL.IN.ZS |
+  | Infant Mortatlity Rate | SH.DTH.IMRT |
+  | Countries with Average Income| NY.GNP.PCAP.CD |
+  | Birth Rates | SP.DYN.CBRT.IN |
+  | World per Capita Income | NY.ADJ.NNTY.PC.KD | 
 
